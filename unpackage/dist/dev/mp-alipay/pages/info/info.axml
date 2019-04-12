@@ -1,0 +1,2 @@
+<template name="66ab8a46"><view class="_view content {{ h[ 0 ].rcl }}"><view class="_view title">{{ h[ 2 ].t }}</view><view class="_view art-content"><rich-text class="_rich-text rich-text" nodes="{{ h[ 4 ][ 'nodes' ] }}"></rich-text></view></view></template>
+<template is="66ab8a46" data="{{ ...$root['0'], $root }}"/>

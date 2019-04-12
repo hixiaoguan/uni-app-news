@@ -1,0 +1,19 @@
+
+.content{
+	padding: 10rpx 10rpx;
+	width:730rpx;
+	-webkit-flex-wrap:wrap;
+	    -ms-flex-wrap:wrap;
+	        flex-wrap:wrap;
+}
+.title{
+	font-size: 32rpx;
+	font-weight: 600;
+	padding: 2rpx;
+}
+.art-content{
+	width:720rpx;
+	padding: 15rpx;
+	line-height: 33rpx;
+}
+
